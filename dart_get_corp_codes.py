@@ -3,7 +3,7 @@ import zipfile
 import xml.etree.ElementTree as ET
 
 # DART API Key
-api_key = "baca1efa60a393ebd217e08e1f2ed5b83836e898"
+api_key = "API Key"
 
 # 1️⃣ 고유번호 파일 다운로드
 url = f"https://opendart.fss.or.kr/api/corpCode.xml?crtfc_key={api_key}"
