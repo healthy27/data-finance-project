@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 # 🔑 DART API 키
-api_key = "baca1efa60a393ebd217e08e1f2ed5b83836e898"
+api_key = "API Key"
 
 # 📊 분석할 기업 목록
 target_names = ["삼성전자", "현대자동차", "기아", "포스코홀딩스", "LG화학"]
